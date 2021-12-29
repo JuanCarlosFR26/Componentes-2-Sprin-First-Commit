@@ -1,0 +1,21 @@
+input {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 15px;
+    width: 450px;
+    height: 20px;
+    border: none;
+    background: #f8f8f9;
+    border-radius: 8px;
+    margin: 12px 0;
+    margin-left: 25px;
+}
+
+input[type="checkbox"] {
+    display: inline-block;
+    width: 450px;
+    height: 12px;
+    position: relative;
+    margin-right: 430px;
+}

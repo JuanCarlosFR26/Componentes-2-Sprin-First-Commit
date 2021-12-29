@@ -1,0 +1,18 @@
+button {
+    background-color: #32D4A4;
+    padding: 5px 14px 5px 10px;
+    width: 475px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    color: #ffffff;
+    position: relative;
+    bottom: 20px;
+    left: 12px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+
+}

@@ -1,0 +1,16 @@
+.title > h3 {
+    font-size: 24px;
+    line-height: 28px;
+    color: #121625;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: normal;
+    position: relative;
+    bottom: 10px;
+    right: 85px;
+}
+
+.title > h3 > span {
+    color: #32D5A4;
+    font-weight: 600;
+}

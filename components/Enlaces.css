@@ -1,0 +1,14 @@
+.passLink {
+    color: #32D4A4;
+    text-decoration: none;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: -0.2px;
+    position: relative;
+    bottom: 50px;
+    left: 120px;
+
+}

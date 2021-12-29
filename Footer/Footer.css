@@ -1,0 +1,11 @@
+p, a {
+    width: 450px;
+    height: 10px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    color: #a5a8b3;
+    text-decoration: none;
+}
